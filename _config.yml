@@ -16,7 +16,7 @@
 
 ## => Site Settings
 ##############################
-url: https://tianqi.name
+url:
 baseurl: /
 title: Qi's Site
 description: >
