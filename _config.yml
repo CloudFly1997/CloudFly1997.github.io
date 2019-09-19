@@ -21,9 +21,8 @@ text_skin: "dark" # "default" (default), "dark", "forest", "ocean", "chocolate",
 highlight_theme:"tomorrow-night-bright" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://www.908332035.github.io
 baseurl : /# does not include hostname
-title   : CloudFly
-description: > CloudFly's Blog
-  Your Site Description
+title   : CloudFly's Blog
+description: > CloudFly's Blog | 云飞的博客
 
 
 ## => Language and Timezone
@@ -36,7 +35,7 @@ timezone: Asia/Shanghai
 ##############################
 author:CloudFly
   type      : "person" 
-  name      : CloudFly
+  name      : Cloud Fly
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : A student who like Java
@@ -63,10 +62,10 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
+  root    : /
+  home    : /Blog
+  archive : /Blog/archive.html
+  rss     : #/feed.xml
 
 
 ## => Post
