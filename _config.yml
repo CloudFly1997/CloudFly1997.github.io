@@ -18,9 +18,9 @@
 ##############################
 url:
 baseurl: /
-title: Qi's Site
+title: CloudFly's Blog
 description: >
-    Tian Qi's Site | 田琦的小站
+    CloudFly's Blog | 云飞的博客
 
 
 ## => Language and Timezone
@@ -32,18 +32,18 @@ timezone: Asia/Shanghai
 ## => Author and Social
 ##############################
 author:
-  name: Tian Qi
-  email: kitian616@outlook.com
-  twitter: kitian616
-  github:  kitian616
-  googleplus: 101827554735084402671
-  weibo: 234695683
-  douban: kitian616
+  name: Cloud Fly
+  email: 908332035@qq.com
+  twitter: #
+  github:  908332035
+  googleplus: #
+  weibo: #
+  douban: #
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kitian616/kitian616.github.io
+repository: 908332035/908332035.github.io
 repository_tree: master
 
 
@@ -67,7 +67,7 @@ license: CC-BY-4.0
 
 ## => Paginate
 ##############################
-paginate: 7
+paginate: 8
 paginate_path: /blog/page:num
 
 
