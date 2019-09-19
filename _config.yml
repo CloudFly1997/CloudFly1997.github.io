@@ -13,9 +13,10 @@
 
 
 
-
 ## => Site Settings
 ##############################
+
+theme: jekyll-text-theme
 text_skin: "dark" # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme:"tomorrow-night-bright" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://www.908332035.github.io
