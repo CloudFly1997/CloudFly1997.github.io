@@ -1,0 +1,37 @@
+{
+  "name": "personal-site",
+  "version": "2.0.0",
+  "description": "My Personal Website, powered by jekyll-TeXt-theme",
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve -H 0.0.0.0",
+    "dev": "bundle exec jekyll serve -H 0.0.0.0 -t",
+    "beta": "JEKYLL_ENV=beta bundle exec jekyll serve -H 0.0.0.0 -t",
+    "production": "JEKYLL_ENV=production bundle exec jekyll serve -H 0.0.0.0 -t",
+    "merge": "sh bin/merge.sh",
+    "cm-merge": "git commit -m 'chore: merge to Text Theme'",
+    "cm-post": "git commit -m 'feat: publish new post'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitian616/kitian616.github.io.git"
+  },
+  "keywords": [
+    "jekyll",
+    "jekyll-site"
+  ],
+  "author": "Tian Qi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitian616/issues"
+  },
+  "homepage": "https://github.com/kitian616#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "stylelint": "^9.5.0",
+    "stylelint-config-recommended-scss": "^3.2.0",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-order": "^1.0.0",
+    "stylelint-scss": "^3.3.0"
+  }
+}
