@@ -5,7 +5,7 @@ key: page-about
 ---
 Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
-My Name is Wang Yun Fei (You can also call me Yun Fei), I am a ~~frontend engineer~~ development engineer .
+My Name is Wang Yun Fei (You can also call me Yun Fei), I am a Java engineer development engineer .
 
 ## Skills | 技能
 
