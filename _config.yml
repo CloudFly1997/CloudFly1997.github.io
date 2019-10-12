@@ -76,7 +76,7 @@ paginate_path: /blog/page:num
 comments:
   provider: disqus
   disqus:
-    shortname: kitian616-github-io
+    shortname: cloudfly1997-github-io
 
 
 ## => Pageview
